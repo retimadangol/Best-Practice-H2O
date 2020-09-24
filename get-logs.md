@@ -1,4 +1,3 @@
-# Best-Practice-H2O
 
 ## How to get logs
 
