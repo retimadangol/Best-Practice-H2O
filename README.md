@@ -30,10 +30,10 @@ It can be added to as: ```java -jar h2o.jar -max_log_file_size 128MB```
 
 ## On flow:
 
--the top where there is Admin button, 
+- On the top there is ```Admin button```, 
 
--click the drop down, you can see view log or download log button
+-click the drop down, you can see ```View log``` or ```Download logs``` button
 
--download log option will downloads the zip file 
+- ```Download logs``` option will downloads the zip file 
 
--however if downloading the log in zip is not an option click view logs option and copy paste it on text file or word 
+-however, if downloading the log in zip is not an option click ```View log``` option and copy paste it on text file or word 
