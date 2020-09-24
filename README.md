@@ -1,6 +1,6 @@
 # Best-Practice-H2O
 
-### H2O-3 for algorithms:
+### For best practices of H2O-3 algorithms please visit Megan K's repo below:
 
 https://github.com/h2oai/h2o-tutorials/tree/master/best-practices
 
