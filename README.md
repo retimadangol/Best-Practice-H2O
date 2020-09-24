@@ -4,11 +4,11 @@
 
 Below are methods that could download logs for Python or R code.
 
-Python:
+### Python:
 
 ```h2o.download_all_logs('logs_in_Py')```
 
-R:
+### R:
 
 ```h2o.downloadAllLogs(filename = 'R_logs')```
 
