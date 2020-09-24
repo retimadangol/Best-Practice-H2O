@@ -1,13 +1,15 @@
 # Best-Practice-H2O
 
-## how to get logs
+## How to get logs
 
 Below are methods that could download logs for Python or R code.
 
 Python:
+
 h2o.download_all_logs('logs_in_Py')
 
 R:
+
 h2o.downloadAllLogs(filename = 'R_logs')
 
 To increase the log file limit, you can use 'max_log_file_size' option
