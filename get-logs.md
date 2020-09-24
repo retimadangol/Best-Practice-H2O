@@ -1,4 +1,3 @@
-# Best-Practice-H2O
 Below are methods that could download logs for Python or R code.
 
 Python:
