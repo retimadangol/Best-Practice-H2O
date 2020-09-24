@@ -4,21 +4,26 @@
 
 Below are methods that could download logs for Python or R code.
 
-### Python:
-
-```h2o.download_all_logs('logs_in_Py')```
 
 ### R:
 
 ```h2o.downloadAllLogs(filename = 'R_logs')```
 
-To increase the log file limit, you can use ```max_log_file_size``` option
+### Python:
 
-It can be added to Java cli: ```java -jar h2o.jar -max_log_file_size 128MB```
+```h2o.download_all_logs('logs_in_Py')```
 
-Or when launching Python: ```h2o.init(max_log_file_size="128MB")```
+Or to increase the log file limit when launching Python: ```h2o.init(max_log_file_size="128MB")```
 
-It doesn't seem to be available if launching in R, at the moment, but looking to add it.
+you can use ```max_log_file_size``` option to increase the log file limit
+
+**It doesn't seem to be available if launching in R, at the moment, but looking to add it.
+
+
+### Java cli
+
+It can be added to as: ```java -jar h2o.jar -max_log_file_size 128MB```
+
 
 
 ## Getting Logs from H2O flow
