@@ -32,8 +32,8 @@ It can be added to as: ```java -jar h2o.jar -max_log_file_size 128MB```
 
 - On the top there is ```Admin``` button, 
 
--click the drop down, you can see ```View log``` or ```Download logs``` button
+- Click the drop down, you can see ```View log``` or ```Download logs``` button
 
 - ```Download logs``` option will downloads the zip file 
 
--however, if downloading the log in zip is not an option click ```View log``` option and copy paste it on text file or word 
+- However, if downloading the log in zip is not an option click ```View log``` option and copy paste it on text file or word 
