@@ -28,7 +28,7 @@ It can be added to as: ```java -jar h2o.jar -max_log_file_size 128MB```
 
 ## Getting Logs from H2O flow
 
-On flow:
+## On flow:
 
 -the top where there is Admin button, 
 
