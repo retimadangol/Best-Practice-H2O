@@ -20,7 +20,7 @@ you can use ```max_log_file_size``` option to increase the log file limit
 **It doesn't seem to be available if launching in R, at the moment, but looking to add it.
 
 
-### Java cli
+### Java cli:
 
 It can be added to as: ```java -jar h2o.jar -max_log_file_size 128MB```
 
