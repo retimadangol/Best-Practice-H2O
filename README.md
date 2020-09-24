@@ -30,7 +30,7 @@ It can be added to as: ```java -jar h2o.jar -max_log_file_size 128MB```
 
 ## On flow:
 
-- On the top there is ```Admin button```, 
+- On the top there is ```Admin``` button, 
 
 -click the drop down, you can see ```View log``` or ```Download logs``` button
 
