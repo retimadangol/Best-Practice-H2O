@@ -1,8 +1,8 @@
 
 ## xgbfi.zip 
-(which is the extraction of XGBFI library) to be used H2O-XGBoost
+which is the extraction of XGBFI library to be used with H2O-XGBoost
 
-https://github.com/Far0n/xgbfi
+[XGBFI Repository](https://github.com/Far0n/xgbfi)
 
 ## After you unzip it contents:
 * example: h2o-xgboost model
