@@ -40,5 +40,5 @@ re-zipped the content, which you can change the extension to exe before using it
 * then run ```unzip xgbfi_txt.zip && cd xgbfi```
 * run ```mv XgbFeatureInteractions.txt  XgbFeatureInteractions.exe```
 * run ```mono XgbFeatureInteractions.exe```
-* run ```python xgbfi_from_zip.py``
+* run ```python xgbfi_from_zip.py```
  
