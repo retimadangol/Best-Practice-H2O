@@ -1,0 +1,137 @@
+10-06 17:34:09.520 192.168.0.5:54323     64499    Thread-4  INFO water.default: ----- H2O started  -----
+10-06 17:34:09.520 192.168.0.5:54323     64499    Thread-4  INFO water.default: Build git branch: rel-zeno
+10-06 17:34:09.521 192.168.0.5:54323     64499    Thread-4  INFO water.default: Build git hash: 154f9dcf809140d8bbe64abbf8a070ca0cd73840
+10-06 17:34:09.521 192.168.0.5:54323     64499    Thread-4  INFO water.default: Build git describe: jenkins-3.30.1.1-81-g154f9dc
+10-06 17:34:09.521 192.168.0.5:54323     64499    Thread-4  INFO water.default: Build project version: 3.30.1.2
+10-06 17:34:09.521 192.168.0.5:54323     64499    Thread-4  INFO water.default: Build age: 1 month and 2 days
+10-06 17:34:09.522 192.168.0.5:54323     64499    Thread-4  INFO water.default: Built by: 'jenkins'
+10-06 17:34:09.522 192.168.0.5:54323     64499    Thread-4  INFO water.default: Built on: '2020-09-03 18:50:42'
+10-06 17:34:09.522 192.168.0.5:54323     64499    Thread-4  INFO water.default: Found H2O Core extensions: [HiveTableImporter, StackTraceCollector, HiveFrameSaver, XGBoost]
+10-06 17:34:09.522 192.168.0.5:54323     64499    Thread-4  INFO water.default: Processed H2O arguments: [-internal_security_conf_rel_paths, -name, sparkling-water-rdangol_local-1602027235907, -port_offset, 1, -hdfs_config, /private/var/folders/_5/0vh6lbv966z8086cgtvlqby40000gn/T/spark-2d6862ce-7e4c-4aba-8a1a-2d179fbb343d/userFiles-8b39aed4-d38b-463a-a986-d720eaae53ae/hdfs_conf3041483468414498086.xml, -embedded, -quiet, -log_level, INFO, -log_dir, /Users/rdangol/h2o_repos/h2ologs/local-1602027235907, -baseport, 54321, -flatfile, /private/var/folders/_5/0vh6lbv966z8086cgtvlqby40000gn/T/spark-2d6862ce-7e4c-4aba-8a1a-2d179fbb343d/sparkling-water-a6de2fa4-1068-4219-8cf9-1191d29ad6a0/flatfile.txt]
+10-06 17:34:09.523 192.168.0.5:54323     64499    Thread-4  INFO water.default: Java availableProcessors: 8
+10-06 17:34:09.523 192.168.0.5:54323     64499    Thread-4  INFO water.default: Java heap totalMemory: 298.5 MB
+10-06 17:34:09.523 192.168.0.5:54323     64499    Thread-4  INFO water.default: Java heap maxMemory: 910.5 MB
+10-06 17:34:09.523 192.168.0.5:54323     64499    Thread-4  INFO water.default: Java version: Java 1.8.0_221 (from Oracle Corporation)
+10-06 17:34:09.524 192.168.0.5:54323     64499    Thread-4  INFO water.default: JVM launch parameters: [-Xmx1g]
+10-06 17:34:09.524 192.168.0.5:54323     64499    Thread-4  INFO water.default: JVM process id: 64499@retimas-MacBook-Pro.local
+10-06 17:34:09.524 192.168.0.5:54323     64499    Thread-4  INFO water.default: OS version: Mac OS X 10.15.6 (x86_64)
+10-06 17:34:09.525 192.168.0.5:54323     64499    Thread-4  INFO water.default: Machine physical memory: 16.00 GB
+10-06 17:34:09.525 192.168.0.5:54323     64499    Thread-4  INFO water.default: Machine locale: en_US
+10-06 17:34:09.525 192.168.0.5:54323     64499    Thread-4  INFO water.default: X-h2o-cluster-id: 1602027247221
+10-06 17:34:09.526 192.168.0.5:54323     64499    Thread-4  INFO water.default: User name: 'rdangol'
+10-06 17:34:09.526 192.168.0.5:54323     64499    Thread-4  INFO water.default: IPv6 stack selected: false
+10-06 17:34:09.526 192.168.0.5:54323     64499    Thread-4  INFO water.default: Network address/interface is not reachable in 150ms: /fe80:0:0:0:6f0:ffec:959d:d27%utun1/name:utun1 (utun1)
+10-06 17:34:09.526 192.168.0.5:54323     64499    Thread-4  INFO water.default: Network address/interface is not reachable in 150ms: /fe80:0:0:0:f7:5c82:4036:f806%utun0/name:utun0 (utun0)
+10-06 17:34:09.527 192.168.0.5:54323     64499    Thread-4  INFO water.default: Possible IP Address: llw0 (llw0), fe80:0:0:0:d482:8cff:fee9:958c%llw0
+10-06 17:34:09.527 192.168.0.5:54323     64499    Thread-4  INFO water.default: Network address/interface is not reachable in 150ms: /fe80:0:0:0:d482:8cff:fee9:958c%awdl0/name:awdl0 (awdl0)
+10-06 17:34:09.527 192.168.0.5:54323     64499    Thread-4  INFO water.default: Network address/interface is not reachable in 150ms: /fe80:0:0:0:aede:48ff:fe00:1122%en5/name:en5 (en5)
+10-06 17:34:09.527 192.168.0.5:54323     64499    Thread-4  INFO water.default: Possible IP Address: bridge100 (bridge100), fe80:0:0:0:1034:fab3:74d7:49e2%bridge100
+10-06 17:34:09.528 192.168.0.5:54323     64499    Thread-4  INFO water.default: Possible IP Address: bridge100 (bridge100), 192.168.64.1
+10-06 17:34:09.528 192.168.0.5:54323     64499    Thread-4  INFO water.default: Possible IP Address: en0 (en0), fe80:0:0:0:1c73:e199:5e38:e8a5%en0
+10-06 17:34:09.528 192.168.0.5:54323     64499    Thread-4  INFO water.default: Possible IP Address: en0 (en0), 192.168.0.5
+10-06 17:34:09.528 192.168.0.5:54323     64499    Thread-4  INFO water.default: Possible IP Address: lo0 (lo0), fe80:0:0:0:0:0:0:1%lo0
+10-06 17:34:09.529 192.168.0.5:54323     64499    Thread-4  INFO water.default: Possible IP Address: lo0 (lo0), 0:0:0:0:0:0:0:1%lo0
+10-06 17:34:09.529 192.168.0.5:54323     64499    Thread-4  INFO water.default: Possible IP Address: lo0 (lo0), 127.0.0.1
+10-06 17:34:09.529 192.168.0.5:54323     64499    Thread-4  WARN water.default: Multiple local IPs detected:
+10-06 17:34:09.530 192.168.0.5:54323     64499    Thread-4  WARN water.default:   /192.168.64.1  /192.168.0.5
+10-06 17:34:09.530 192.168.0.5:54323     64499    Thread-4  WARN water.default: Attempting to determine correct address...
+10-06 17:34:09.530 192.168.0.5:54323     64499    Thread-4  WARN water.default: Using /192.168.0.5
+10-06 17:34:09.530 192.168.0.5:54323     64499    Thread-4  INFO water.default: H2O node running in unencrypted mode.
+10-06 17:34:09.532 192.168.0.5:54323     64499    Thread-4  INFO water.default: Internal communication uses port: 54324
+10-06 17:34:09.532 192.168.0.5:54323     64499    Thread-4  INFO water.default: Listening for HTTP and REST traffic on http://192.168.0.5:54323/
+10-06 17:34:09.536 192.168.0.5:54323     64499    Thread-4  WARN water.default: Flatfile configuration does not include self: /192.168.0.5:54323, but contains []
+10-06 17:34:09.537 192.168.0.5:54323     64499    Thread-4  INFO water.default: H2O cloud name: 'sparkling-water-rdangol_local-1602027235907' on /192.168.0.5:54323, discovery address /225.164.82.142:57764
+10-06 17:34:09.537 192.168.0.5:54323     64499    Thread-4  INFO water.default: If you have trouble connecting, try SSH tunneling from your local machine (e.g., via port 55555):
+10-06 17:34:09.537 192.168.0.5:54323     64499    Thread-4  INFO water.default:   1. Open a terminal and run 'ssh -L 55555:localhost:54323 rdangol@192.168.0.5'
+10-06 17:34:09.537 192.168.0.5:54323     64499    Thread-4  INFO water.default:   2. Point your browser to http://localhost:55555
+10-06 17:34:09.895 192.168.0.5:54323     64499    Thread-4  INFO water.default: Log dir: '/Users/rdangol/h2o_repos/h2ologs/local-1602027235907'
+10-06 17:34:09.895 192.168.0.5:54323     64499    Thread-4  INFO water.default: Cur dir: '/Users/rdangol/h2o_repos'
+10-06 17:34:09.901 192.168.0.5:54323     64499    Thread-4  INFO water.default: Distributed HTTP import not available (import from HTTP/HTTPS will be eager)
+10-06 17:34:09.903 192.168.0.5:54323     64499    Thread-4  INFO water.default: HDFS subsystem successfully initialized
+10-06 17:34:09.908 192.168.0.5:54323     64499    Thread-4  INFO water.default: S3 subsystem successfully initialized
+10-06 17:34:09.937 192.168.0.5:54323     64499    Thread-4  INFO water.default: GCS subsystem successfully initialized
+10-06 17:34:09.938 192.168.0.5:54323     64499    Thread-4  INFO water.default: Flow dir: '/Users/rdangol/h2oflows'
+10-06 17:34:09.949 192.168.0.5:54323     64499    Thread-4  INFO water.default: Cloud of size 1 formed [/192.168.0.5:54323]
+10-06 17:34:09.965 192.168.0.5:54323     64499    Thread-4  INFO water.default: Registered parsers: [GUESS, ARFF, XLS, SVMLight, AVRO, PARQUET, ORC, CSV]
+10-06 17:34:09.966 192.168.0.5:54323     64499    Thread-4  INFO water.default: HiveTableImporter extension initialized
+10-06 17:34:09.966 192.168.0.5:54323     64499    Thread-4  INFO water.default: StackTraceCollector extension initialized
+10-06 17:34:09.966 192.168.0.5:54323     64499    Thread-4  INFO water.default: HiveFrameSaver extension initialized
+10-06 17:34:09.966 192.168.0.5:54323     64499    Thread-4  INFO water.default: XGBoost extension initialized
+10-06 17:34:09.967 192.168.0.5:54323     64499    Thread-4  INFO water.default: Registered 4 core extensions in: 1282ms
+10-06 17:34:09.967 192.168.0.5:54323     64499    Thread-4  INFO water.default: Registered H2O core extensions: [HiveTableImporter, StackTraceCollector, HiveFrameSaver, XGBoost]
+10-06 17:34:10.268 192.168.0.5:54323     64499    Thread-4  INFO hex.tree.xgboost.XGBoostExtension: Found XGBoost backend with library: xgboost4j_minimal
+10-06 17:34:10.268 192.168.0.5:54323     64499    Thread-4  WARN hex.tree.xgboost.XGBoostExtension: Your system supports only minimal version of XGBoost (no GPUs, no multithreading)!
+10-06 17:34:10.398 192.168.0.5:54323     64499    Thread-4  INFO water.default: Registered: 221 REST APIs in: 431ms
+10-06 17:34:10.398 192.168.0.5:54323     64499    Thread-4  INFO water.default: Registered REST API extensions: [XGBoost, Algos, Amazon S3, Sparkling Water REST API Extensions, AutoML, Core V3, TargetEncoder, Core V4]
+10-06 17:34:10.546 192.168.0.5:54323     64499    Thread-4  INFO water.default: Registered: 295 schemas in 147ms
+10-06 17:34:10.547 192.168.0.5:54323     64499    Thread-4  INFO water.default: H2O started in 3351ms
+10-06 17:34:10.547 192.168.0.5:54323     64499    Thread-4  INFO water.default: 
+10-06 17:34:10.547 192.168.0.5:54323     64499    Thread-4  INFO water.default: Open H2O Flow in your web browser: http://192.168.0.5:54323
+10-06 17:34:10.547 192.168.0.5:54323     64499    Thread-4  INFO water.default: 
+10-06 17:34:10.640 192.168.0.5:54323     64499  3440909-65  INFO water.default: POST /3/CloudLock, parms: {reason=Locked from Sparkling Water.}
+10-06 17:34:10.647 192.168.0.5:54323     64499  3440909-65  INFO water.default: Locking cloud to new members, because requested via REST api. Reason: Locked from Sparkling Water.
+10-06 17:34:10.704 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/CloudLock successfully responded for the POST.
+10-06 17:34:10.704 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:34:10.721 192.168.0.5:54323     64499  3440909-61  INFO water.default: GET /3/verifyWebOpen, parms: {}
+10-06 17:34:10.793 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/verifyWebOpen successfully responded for the GET.
+10-06 17:34:10.797 192.168.0.5:54323     64499  3440909-66  INFO water.default: GET /3/verifyVersion, parms: {referenced_version=3.30.1.2}
+10-06 17:34:10.817 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/verifyVersion?referenced_version=3.30.1.2 successfully responded for the GET.
+10-06 17:34:10.853 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Cloud successfully responded for the GET.
+10-06 17:34:10.864 192.168.0.5:54323     64499  3440909-66  INFO water.default: POST /99/Rapids, parms: {ast=(setTimeZone "UTC")}
+10-06 17:34:11.005 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/99/Rapids successfully responded for the POST.
+10-06 17:34:11.018 192.168.0.5:54323     64499    Thread-4  WARN ai.h2o.sparkling.backend.utils.ProxyStarter: Tried using port 54323 for Flow proxy, but port was already occupied!
+10-06 17:34:11.019 192.168.0.5:54323     64499    Thread-4  WARN ai.h2o.sparkling.backend.utils.ProxyStarter: Tried using port 54324 for Flow proxy, but port was already occupied!
+10-06 17:34:20.460 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.org.eclipse.jetty.server.Server: jetty-9.4.z-SNAPSHOT; built: 2018-06-05T18:24:03.829Z; git: d5fc0523cfa96bfebfbda19606cad384d772f04c; jvm 1.8.0_221-b11
+10-06 17:34:20.489 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.org.eclipse.jetty.server.handler.ContextHandler: Started a.h.o.e.j.s.ServletContextHandler@2ea9241e{/,null,AVAILABLE}
+10-06 17:34:20.491 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.org.eclipse.jetty.server.AbstractConnector: Started ServerConnector@5c8938e3{HTTP/1.1,[http/1.1]}{0.0.0.0:54325}
+10-06 17:34:20.492 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.org.eclipse.jetty.server.Server: Started @28922ms
+10-06 17:34:20.498 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Cloud successfully responded for the GET.
+10-06 17:34:20.505 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:34:20.575 192.168.0.5:54323     64499  3440909-78  INFO water.default: GET /3/Capabilities/API, parms: {}
+10-06 17:34:20.728 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:34:30.740 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:34:41.161 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:34:51.176 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:35:01.203 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:35:11.213 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:35:11.684 192.168.0.5:54323     64499  3440909-67  INFO water.default: POST /3/InitializeFrame, parms: {key=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49, columns=[_c0,_c1,_c2,_c3,_c4,_c5,_c6,_c7,_c8,_c9,_c10,_c11,_c12,_c13,_c14,_c15,_c16,_c17,_c18,_c19,_c20,_c21,_c22,_c23,_c24,_c25,_c26,_c27,_c28,_c29,_c30,_c31]}
+10-06 17:35:11.730 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.sparkling.H2OFrame: H2O node http://192.168.0.5:54323/3/InitializeFrame successfully responded for the POST.
+10-06 17:35:12.823 192.168.0.5:54323     64499  3440909-66  INFO water.default: GET /3/UploadPlan, parms: {number_of_chunks=5}
+10-06 17:35:12.838 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.sparkling.H2OFrame: H2O node http://192.168.0.5:54323/3/UploadPlan?number_of_chunks=5 successfully responded for the GET.
+10-06 17:35:13.205 192.168.0.5:54323     64499  or task 15  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/Chunk?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&num_rows=551&compression=SNAPPY&maximum_vector_sizes=&expected_types=CwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwg%3D&chunk_id=4 successfully responded for the PUT.
+10-06 17:35:13.213 192.168.0.5:54323     64499  or task 15  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/ChunkCategoricalDomains?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&chunk_id=4&compression=SNAPPY successfully responded for the PUT.
+10-06 17:35:13.213 192.168.0.5:54323     64499  or task 15  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/ChunkCategoricalDomains?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&chunk_id=4&compression=SNAPPY successfully responded for the PUT.
+10-06 17:35:14.600 192.168.0.5:54323     64499  or task 14  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/Chunk?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&num_rows=29840&compression=SNAPPY&maximum_vector_sizes=&expected_types=CwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwg%3D&chunk_id=3 successfully responded for the PUT.
+10-06 17:35:14.605 192.168.0.5:54323     64499  or task 12  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/Chunk?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&num_rows=29626&compression=SNAPPY&maximum_vector_sizes=&expected_types=CwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwg%3D&chunk_id=1 successfully responded for the PUT.
+10-06 17:35:14.605 192.168.0.5:54323     64499  or task 14  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/ChunkCategoricalDomains?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&chunk_id=3&compression=SNAPPY successfully responded for the PUT.
+10-06 17:35:14.606 192.168.0.5:54323     64499  or task 14  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/ChunkCategoricalDomains?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&chunk_id=3&compression=SNAPPY successfully responded for the PUT.
+10-06 17:35:14.612 192.168.0.5:54323     64499  or task 12  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/ChunkCategoricalDomains?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&chunk_id=1&compression=SNAPPY successfully responded for the PUT.
+10-06 17:35:14.612 192.168.0.5:54323     64499  or task 12  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/ChunkCategoricalDomains?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&chunk_id=1&compression=SNAPPY successfully responded for the PUT.
+10-06 17:35:14.623 192.168.0.5:54323     64499  or task 13  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/Chunk?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&num_rows=30109&compression=SNAPPY&maximum_vector_sizes=&expected_types=CwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwg%3D&chunk_id=2 successfully responded for the PUT.
+10-06 17:35:14.627 192.168.0.5:54323     64499  or task 13  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/ChunkCategoricalDomains?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&chunk_id=2&compression=SNAPPY successfully responded for the PUT.
+10-06 17:35:14.627 192.168.0.5:54323     64499  or task 13  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/ChunkCategoricalDomains?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&chunk_id=2&compression=SNAPPY successfully responded for the PUT.
+10-06 17:35:14.656 192.168.0.5:54323     64499  or task 11  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/Chunk?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&num_rows=29265&compression=SNAPPY&maximum_vector_sizes=&expected_types=CwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwg%3D&chunk_id=0 successfully responded for the PUT.
+10-06 17:35:14.660 192.168.0.5:54323     64499  or task 11  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/ChunkCategoricalDomains?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&chunk_id=0&compression=SNAPPY successfully responded for the PUT.
+10-06 17:35:14.660 192.168.0.5:54323     64499  or task 11  INFO ai.h2o.sparkling.backend.H2OChunk: H2O node http://192.168.0.5:54323/3/ChunkCategoricalDomains?frame_name=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49&chunk_id=0&compression=SNAPPY successfully responded for the PUT.
+10-06 17:35:14.668 192.168.0.5:54323     64499  3440909-61  INFO water.default: POST /3/FinalizeFrame, parms: {rows_per_chunk=UXIAAAAAAAC6cwAAAAAAAJ11AAAAAAAAkHQAAAAAAAAnAgAAAAAAAA==, key=frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49, column_types=BAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAI=}
+10-06 17:35:15.340 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.sparkling.H2OFrame: H2O node http://192.168.0.5:54323/3/FinalizeFrame successfully responded for the POST.
+10-06 17:35:15.357 192.168.0.5:54323     64499  3440909-66  INFO water.default: GET /3/Frames/frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49/light, parms: {column_offset=0, full_column_count=-1, row_count=10, row_offset=0, column_count=-1}
+10-06 17:35:21.222 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:35:31.226 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:35:41.235 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:35:51.244 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:36:01.253 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:36:11.261 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:36:13.782 192.168.0.5:54323     64499  3440909-61  INFO water.default: GET /3/Frames/frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49/summary, parms: {row_count=0}
+10-06 17:36:13.924 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.sparkling.H2OFrame: H2O node http://192.168.0.5:54323/3/Frames/frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49/summary?row_count=0 successfully responded for the GET.
+10-06 17:36:13.971 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Cloud successfully responded for the GET.
+10-06 17:36:13.973 192.168.0.5:54323     64499  3440909-61  INFO water.default: GET /3/FrameChunks/frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49, parms: {}
+10-06 17:36:13.986 192.168.0.5:54323     64499    Thread-4  INFO ai.h2o.sparkling.H2OFrame: H2O node http://192.168.0.5:54323/3/FrameChunks/frame_rdd_12_bcd2a8ddaffbb8f6c311cd8e40c44d49 successfully responded for the GET.
+10-06 17:36:21.269 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:36:31.281 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:36:41.287 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:36:51.299 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:37:01.310 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:37:11.320 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:37:21.330 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
+10-06 17:37:31.339 192.168.0.5:54323     64499   Thread-20  INFO ai.h2o.sparkling.backend.utils.RestApiUtils: H2O node http://192.168.0.5:54323/3/Ping successfully responded for the GET.
